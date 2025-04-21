@@ -1,10 +1,10 @@
-# CourseCanvas
+# CourseFlow
 
 ## Description
 
-CourseCanvas is a web-based application to automate the creation, editing, approval, and tracking of course outlines in the ECE department at Western University. It provides role-based functionalities for instructors and administrators to streamline the process while ensuring compliance with departmental templates and guidelines.
+CourseFlow is a web-based application to automate the creation, editing, approval, and tracking of course outlines in the ECE department at Western University. It provides role-based functionalities for instructors and administrators to streamline the process while ensuring compliance with departmental templates and guidelines.
 
-![CourseCanvas Login Page](screenshots/LoginPage.png)
+![CourseFlow Login Page](screenshots/LoginPage.png)
 
 ## Features
 
@@ -82,19 +82,19 @@ CourseCanvas is a web-based application to automate the creation, editing, appro
 
 ### **Instructor View:**
 
-![CourseCanvas Instructor View Page](screenshots/Instructor_View.png)
-![CourseCanvas Instructor Course View Page](screenshots/Instructor_CourseView.png)
+![CourseFlow Instructor View Page](screenshots/Instructor_View.png)
+![CourseFlow Instructor Course View Page](screenshots/Instructor_CourseView.png)
 
 ### **Admin View**:
 
-![CourseCanvas Admin View Page](screenshots/Admin_View.png)
-![CourseCanvas Admin Course View Page](screenshots/Admin_CourseView.png)
-![CourseCanvas Admin Instructor Assignment Page](screenshots/Admin_InstructorAssignment.png)
-![CourseCanvas Admin Approval Screen Page](screenshots/Admin_ApprovalScreen.png)
+![CourseFlow Admin View Page](screenshots/Admin_View.png)
+![CourseFlow Admin Course View Page](screenshots/Admin_CourseView.png)
+![CourseFlow Admin Instructor Assignment Page](screenshots/Admin_InstructorAssignment.png)
+![CourseFlow Admin Approval Screen Page](screenshots/Admin_ApprovalScreen.png)
 
 ### **Program Director View**:
 
-![CourseCanvas ProgramDirector View Page](screenshots/ProgramDirector_View.png)
-![CourseCanvas ProgramDirector View 2 Page](screenshots/ProgramDirector_View2.png)
-![CourseCanvas ProgramDirector Course View Page](screenshots/ProgramDirector_CourseView.png)
-![CourseCanvas ProgramDirector Approval Screen Page](screenshots/ProgramDirector_ApprovalScreen.png)
+![CourseFlow ProgramDirector View Page](screenshots/ProgramDirector_View.png)
+![CourseFlow ProgramDirector View 2 Page](screenshots/ProgramDirector_View2.png)
+![CourseFlow ProgramDirector Course View Page](screenshots/ProgramDirector_CourseView.png)
+![CourseFlow ProgramDirector Approval Screen Page](screenshots/ProgramDirector_ApprovalScreen.png)
