@@ -56,7 +56,7 @@ CourseFlow is a web-based application to automate the creation, editing, approva
 1. Clone the repository:
    ```bash
    git clone <repository_url>
-   cd CourseCanvas
+   cd CourseFlow
    ```
 2. Set up the frontend:
    ```bash
